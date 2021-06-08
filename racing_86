@@ -9,19 +9,19 @@
     <Waypoint name="130 Iittala" id="0" comment="" altitude="91.0">
       <Location longitude="24.13695" latitude="61.0822167"/>
     </Waypoint>
-    <ObservationZone type="Sector" radius="15000.0" start_radial="0.0" end_radial="0.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="142 Lahnajarvi" id="0" comment="" altitude="83.0">
       <Location longitude="23.7077833" latitude="60.3713833"/>
     </Waypoint>
-    <ObservationZone type="Sector" radius="20000.0" start_radial="0.0" end_radial="0.0"/>
+    <ObservationZone type="Cylinder" radius="20000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="193 Launonen" id="0" comment="" altitude="120.0">
       <Location longitude="24.5661167" latitude="60.7366667"/>
     </Waypoint>
-    <ObservationZone type="Sector" radius="15000.0" start_radial="0.0" end_radial="0.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="005 Lautaporras" id="0" comment="" altitude="107.0">
@@ -36,4 +36,3 @@
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
-
