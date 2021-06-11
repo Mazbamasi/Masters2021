@@ -1,0 +1,45 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="134 Laakasalo" id="0" comment="" altitude="122.0">
+      <Location longitude="24.1686167" latitude="60.7361167"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="10000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="007 Forssa" id="0" comment="" altitude="106.0">
+      <Location longitude="23.5841667" latitude="60.8252833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="063 Jaala" id="0" comment="" altitude="133.0">
+      <Location longitude="26.48945" latitude="61.04945"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="165 Kalkkinen" id="0" comment="" altitude="132.0">
+      <Location longitude="25.6727833" latitude="61.2913833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="016 Kiikala" id="0" comment="" altitude="116.0">
+      <Location longitude="23.6513833" latitude="60.4622167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="005 Lautaporras" id="0" comment="" altitude="107.0">
+      <Location longitude="23.8636167" latitude="60.9091667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="999 Rayskala_F12" id="0" comment="" altitude="124.0">
+      <Location longitude="24.0977833" latitude="60.7508333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+

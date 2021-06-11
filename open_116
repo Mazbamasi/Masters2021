@@ -1,0 +1,45 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="009 Lietsa" id="0" comment="" altitude="113.0">
+      <Location longitude="24.0166667" latitude="60.82805"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="10000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="080 Riisikkala" id="0" comment="" altitude="103.0">
+      <Location longitude="23.7663833" latitude="61.0413833"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="092 Anttila" id="0" comment="" altitude="116.0">
+      <Location longitude="26.82945" latitude="61.065"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="321 Sysma" id="0" comment="" altitude="126.0">
+      <Location longitude="25.6861167" latitude="61.505"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="016 Kiikala" id="0" comment="" altitude="116.0">
+      <Location longitude="23.6513833" latitude="60.4622167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="005 Lautaporras" id="0" comment="" altitude="107.0">
+      <Location longitude="23.8636167" latitude="60.9091667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="500.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="999 Rayskala_F12" id="0" comment="" altitude="124.0">
+      <Location longitude="24.0977833" latitude="60.7508333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
